@@ -1,5 +1,7 @@
 # SimpleCalc
 C#: Calculator Program
+
+
 The acceptance criteria for this program:
 1. Three user inputs are to be processed.
     - First and second inputs are numbers.
