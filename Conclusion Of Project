@@ -1,0 +1,10 @@
+This program follows the acceptance criteria that was set in the beginning.
+Only three inputs are accepted
+  - the first two inputs have to be numbers.
+  - the last input must be specified as a operator.
+
+The program has a class that converts the inputs into an accepted format, the double data type has been to accomidate the decimal values from using division. 
+
+The program prevents a crash by using the try and catch techniques.
+
+Too mkae this project better I could log the common Exceptions 
